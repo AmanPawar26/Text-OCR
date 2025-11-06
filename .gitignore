@@ -1,3 +1,5 @@
 .env 
 node_modules/
 src/uploads/
+src/output/
+src/keys/sheets-credentials.json
