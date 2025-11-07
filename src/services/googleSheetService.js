@@ -22,7 +22,7 @@ export const appendToGoogleSheet = async ({ filename, text }) => {
     });
 
     if (!existing.data.values || existing.data.values.length === 0) {
-      console.log("🧾 Header row not found — creating one...");
+      console.log("Header row not found — creating one.");
       await sheets.spreadsheets.values.update({
         spreadsheetId: sheetId,
         range: `${sheetName}!A1:C1`,
