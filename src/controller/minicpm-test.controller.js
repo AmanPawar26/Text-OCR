@@ -2,7 +2,7 @@ import fetch from "node-fetch";
 import path from "path";
 import fs from "fs";
 
-export const extractTextWithQwen = async (req, res) => {
+export const extractTextWithMinicpm = async (req, res) => {
   try {
     if (!req.file) {
       return res.status(400).json({ error: "No image uploaded" });
