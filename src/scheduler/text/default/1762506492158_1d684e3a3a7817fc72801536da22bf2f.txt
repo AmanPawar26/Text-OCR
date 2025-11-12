@@ -1,0 +1,24 @@
+Title:
+Project Scope Management (Chapter 5 of the PMBOK® Guide)
+
+Subtitle:
+47. All of the following are true about the project scope management plan EXCEPT:
+
+Body Text:
+A. It provides guidance on how project scope will be defined, documented, managed, and controlled.
+   B. It provides guidance on how project scope will be verified.
+   C. It may be formal or informal, highly detailed, or broadly framed, based upon the needs of the project.
+   D. It is separate from the project management plan.
+
+Subtitle:
+48. Collect Requirements
+
+Body Text:
+is the process of defining and documenting stakeholders' needs to meet the project objectives. All of the following are true about this process EXCEPT:
+
+A. The project's success is directly influenced by the care taken in capturing and managing project and product requirements.
+B. Requirements include the quantified and documented needs and expectations of the sponsor, customer, and other stakeholders.
+C. Requirements become the foundation of the WBS. Cost, schedule, and quality planning are all built upon these requirements.
+D. The development of requirements begins with an analysis of the information contained in the risk register.
+
+[UNREADABLE]

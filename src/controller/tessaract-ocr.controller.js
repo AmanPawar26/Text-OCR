@@ -15,7 +15,7 @@ export const extractTextFromImage = async (req, res) => {
       logger: (m) => console.log(m),
     });
 
-    // Remove uploaded image after OCR
+   
     fs.unlinkSync(imagePath);
 
     res.status(200).json({

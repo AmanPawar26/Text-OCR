@@ -1,0 +1,42 @@
+Title: California, MD
+
+Subtitle: Homes for Sale
+
+Heading: 43643 Evening Primrose Court, California, MD 20619
+
+Subheading: Open House Sunday!
+
+Button: Back to Search Results → Next Listing →
+
+Property Price Section:
+- For Sale $439,900
+- Details: 
+    - Bedroom and Bath Information: "4 beds • 3 baths" | "(1) half baths"
+    - Square Footage: "2,716 sqft".
+- Legal Description of Property: "[UNREADABLE]"
+- Estimated Payment Section:
+    - "Estimated Payment $2,531/mo†
+     Change Loan Terms
+    APR for 30 yrs.
+    [UNREADABLE] in taxes
+
+Contact Information:
+- Name: Shelia Kuhfahl
+- Company: CENTURY 21 New Millennium Mobile: "(410)971-2041"
+- License Number: "662995"
+
+Message Section:
+- Message Header: [UNREADABLE]
+- Message Body: "[UNREADABLE] would like to inquire about the property at
+    43643 Evening Primrose Court, California. MD 20619
+
+Buttons:
+- Request a Tour → Save →
+
+Image Section (not transcribed as per instructions)
+
+Footer Menu:
+- Cookie Preferences [OK]
+- Manage Settings
+
+*The text within brackets "[UNREADABLE]" indicates that the information is unclear or not fully visible in the screenshot provided.

@@ -1,10 +1,10 @@
 import express from "express";
 import multer from "multer";
-import { extractTextWithMinicpm } from "../controller/minicpm-test.controller.js";
+import { processCustomPromptOCR } from "../controller/custom.prompt.controller.js";
 
 const router = express.Router();
 const upload = multer({ dest: "src/uploads/" });
 
-router.post("/extract", upload.single("image"), extractTextWithMinicpm);
+router.post("/prompt", upload.single("file"), processCustomPromptOCR);
 
 export default router;
