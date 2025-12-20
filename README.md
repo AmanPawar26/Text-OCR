@@ -348,7 +348,8 @@ Responsible for all frontend–backend communication.
 
 ### 1️⃣ Install Ollama & Model
 ```bash
-ollama pull minicpm-v
+ollama pull minicpm-v:8b
+ollama run minicpm-v:8b
 
 2️⃣ Backend Setup
 cd backend
