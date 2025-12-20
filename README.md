@@ -187,6 +187,7 @@ This document describes the folder and file structure of the **AI-Powered OCR Au
 
 The backend is built using **Node.js (Express)** with **ES Modules (`type: module`)** and follows a clean, service-based architecture.
 
+```
 backend/
 └── src/
 ├── controllers/
@@ -210,8 +211,9 @@ backend/
 ├── keys/
 │ └── [Google Sheets credentials / service account keys]
 │
-├── app.js
-└── index.js
+├── app.js  <-- Express app setup
+└── index.js <-- Entry point
+```
 
 ### 📌 Backend Responsibilities
 
@@ -283,6 +285,7 @@ Reusable business logic is isolated into services:
 
 The frontend is built with **React** and follows a component-based design.
 
+```
 frontend/
 └── vision-ocr-frontend/
 └── src/
@@ -297,6 +300,7 @@ frontend/
 │ └── api.js
 │
 └── [global styles and entry files]
+```
 
 ---
 
