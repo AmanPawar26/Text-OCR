@@ -213,9 +213,6 @@ backend/
 ├── app.js
 └── index.js
 
-markdown
-Copy code
-
 ### 📌 Backend Responsibilities
 
 #### `index.js`
@@ -300,9 +297,6 @@ frontend/
 │ └── api.js
 │
 └── [global styles and entry files]
-
-csharp
-Copy code
 
 ---
 
