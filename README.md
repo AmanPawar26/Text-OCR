@@ -177,23 +177,167 @@ Google Sheets Sync
 ---
 
 ## 📂 Project Structure
+# Project Structure
 
+This document describes the folder and file structure of the **AI-Powered OCR Automation Platform**, covering both backend and frontend components.
 
+---
+
+## 📁 Backend Structure
+
+The backend is built using **Node.js (Express)** with **ES Modules (`type: module`)** and follows a clean, service-based architecture.
 
 backend/
+└── src/
 ├── controllers/
+│ ├── custom.prompt.controller.js
+│ ├── minicpm-test.controller.js
+│ ├── scheduler.controller.js
+│ └── upload.process.controller.js
+│
+├── routes/
+│ ├── custom.prompt.routes.js
+│ ├── minicpm-test.routes.js
+│ ├── scheduler.routes.js
+│ └── upload.process.routes.js
+│
 ├── services/
-│ ├── textService.js
 │ ├── csvService.js
 │ ├── googleSheetService.js
-│ └── promptService.js
-├── uploads/
-├── output/
-frontend/
-├── components/
-├── services/
-└── pages/
+│ ├── promptService.js
+│ └── textService.js
+│
+├── keys/
+│ └── [Google Sheets credentials / service account keys]
+│
+├── app.js
+└── index.js
 
+markdown
+Copy code
+
+### 📌 Backend Responsibilities
+
+#### `index.js`
+- Main application entry point
+- Starts the Express server
+- Loads environment configuration
+
+#### `app.js`
+- Configures the Express application
+- Middleware setup
+- Route registration
+
+---
+
+### 📂 Controllers
+
+Each controller handles a single responsibility:
+
+- **`upload.process.controller.js`**
+  - Handles instant (on-demand) OCR processing
+  - Saves TXT, CSV, and syncs data to Google Sheets
+
+- **`custom.prompt.controller.js`**
+  - Handles OCR with user-defined prompts
+  - Enables category-specific and custom extraction logic
+
+- **`scheduler.controller.js`**
+  - Manages scheduled OCR jobs using `node-cron`
+  - Processes files automatically at defined intervals
+
+- **`minicpm-test.controller.js`**
+  - Used for testing MiniCPM-V integration and OCR responses
+
+---
+
+### 📂 Routes
+
+Each route maps cleanly to its controller:
+
+- **`upload.process.routes.js`** → Instant OCR endpoints
+- **`custom.prompt.routes.js`** → Custom prompt OCR endpoints
+- **`scheduler.routes.js`** → Scheduled OCR endpoints
+- **`minicpm-test.routes.js`** → Model testing endpoints
+
+---
+
+### 📂 Services
+
+Reusable business logic is isolated into services:
+
+- **`textService.js`**
+  - Saves extracted OCR text as `.txt` files
+
+- **`csvService.js`**
+  - Appends structured OCR results into CSV files
+  - Generates CSV rows for frontend downloads
+
+- **`googleSheetService.js`**
+  - Syncs OCR results to Google Sheets using Google Sheets API
+
+- **`promptService.js`**
+  - Provides category-based OCR prompts
+  - Centralizes prompt templates
+
+---
+
+## 🎨 Frontend Structure
+
+The frontend is built with **React** and follows a component-based design.
+
+frontend/
+└── vision-ocr-frontend/
+└── src/
+├── components/
+│ ├── CategorySelector/
+│ ├── Dashboard/
+│ ├── FileUpload/
+│ ├── Prompt/
+│ └── Results/
+│
+├── services/
+│ └── api.js
+│
+└── [global styles and entry files]
+
+csharp
+Copy code
+
+---
+
+### 📌 Frontend Responsibilities
+
+#### Components
+
+Each component is responsible for a specific UI concern:
+
+- **CategorySelector**
+  - Allows users to select document category for OCR
+
+- **Dashboard**
+  - Main orchestration layer for OCR workflows
+  - Handles instant OCR, scheduling, and custom prompt OCR
+
+- **FileUpload**
+  - Handles document selection and validation
+
+- **Prompt**
+  - Accepts user-defined OCR prompts
+
+- **Results**
+  - Displays OCR preview
+  - Enables TXT and CSV downloads
+
+Each component includes its own CSS for modular styling.
+
+---
+
+### 📂 Frontend Services
+
+#### `services/api.js`
+
+Responsible for all frontend–backend communication.
 
 ---
 
