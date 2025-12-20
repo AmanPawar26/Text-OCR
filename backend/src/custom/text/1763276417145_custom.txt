@@ -1,0 +1,48 @@
+Title: Tata Motors Group Financials
+
+Subtitle: Consolidated Results ended Mar 31,2014 | Mar 31,2013
+
+Table:
+
+| Description                            | FY'14      | FY'13     |
+|----------------------------------------|------------|-----------|
+| Cars                                   |         |
+
+- Total Vehicles                          | 875        | 960       |
+- Passenger Vehicles                       |             |           |
+    - Total (Maruti)                        |            |           |
+    - Total Nissan                           |            |           |
+- Commercial Vehicles                     |             |           |
+    - Total Tata Trucks                      |            |           |
+| Engines                                 |         |
+
+- Engine Sales in India                   |          321.4K   |      395.0K     |
+- Exports                                 |                |                  |
+- Off-road emission norms                 |               |             |
+|- BSIVI                                |              |        78,062    |
+
+| Segment                       | FY'14 (Rs lacs)       | FY'13 (Rs lacs)      |
+|-----------------------------|-----------------------|----------------------|
+| Passenger Vehicles          |                      |                      |
+- Cars                        |         -5.9           |        8,062        |
+    - Total Nissan             |               |                    |
+    - Maruti Trucks            |                |                  |
+- Commercial Vehicles       |                     |                   |
+    - Tata Trucks              |               |                 |
+
+| Others (excluding JVs)      | FY'14     | FY'13  |
+|---------------------------|----------|--------|
+| Sales                      |          |        |
+|                            | Total   | Exports|
+
+- Other segments including JVs
+| Segment    | FY'14       | FY'13         |
+|------------|-------------|---------------|
+| Finance     |            |               |
+| Services 2%|              |                |
+
+Footer Note:
+Note: Figures on consolidated basis with effect from April,07 onwards include Daewoo Bus Business. 
+
+UNREADABLE
+UNREADABLE

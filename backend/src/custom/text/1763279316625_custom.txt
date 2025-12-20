@@ -1,0 +1,55 @@
+**Title:**
+Tata Motors Group Financials
+
+---
+
+**Column Headers:**  
+Quarter ended Mar'13 (INR Lakh)
+
+**Table Structure:**
+
+| **Consolidated** | **Mar'12**    | **Q4’12**     | **H1`13**      |
+|------------------|---------------|---------------|----------------|
+| **Total Income** | 70,859        | 11,658.6      |               |
+
+- **Net Sales**
+  - Mar'12: 41,824  
+  - Q4’12: (UNREADABLE)  
+
+- **Operating Profit Before Depreciation**:
+  - Mar'12: 3097  
+  - H1`13: UNREADABLE
+
+- **Depreciation/Amortization & Other Income**
+  - Mar'12:   |
+  - Q4’12:    |
+
+- **Operating Profit After Depreciation**:
+  - Mar'12: UNREADABLE  
+  - H1`13: UNREADABLE
+
+- **Interest Income**
+  - Mar'12: (UNREADABLE) 
+  - Q4’12:   |
+  - H1`13:    |
+
+- **Interest & Taxes**
+  - Mar'12:   |
+  - Q4’12: UNREADABLE  
+  - H1`13:     |
+
+**Summary:**  
+Operating Profit Before Depreciation (INR Lakh): 
+Mar'12: |Q4’12:
+- Operating Profit After Depreciation
+|H1‘13
+
+Interest Income (INR Lakh):
+ Mar'12: |
+ Q4`12 :
+ - Interest & Taxes
+
+**Additional Notes:**  
+- All figures are in millions of Indian Rupees.
+
+(Note: The table contains placeholders for unclear or missing data.)

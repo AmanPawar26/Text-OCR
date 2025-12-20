@@ -1,0 +1,47 @@
+**Title:**
+Tata Motors Group Financials
+
+**Subtitle:**  
+Consolidated (Q4 ended March 31, 2018)  
+Comparison with quarter ended Mar'17  
+
+**Table:**
+
+|                          | Q4 Ended Mar-’18 | Comparison |
+|--------------------------|------------------|------------|
+| **Total Income**         | ₹.56,997 Crore   |            |
+|                         | Net Sales        | 32% up     |
+|                         | Compressed       | 0% down    |
+|                         | Adjusted for Marge & SG&A impact -14 basis points compared to Qtr. ended Mar'17 due largely driven by higher sales in India, lower operating leverage and other reasons as mentioned above-39 basis points compared to qtr. ended mar’18 2016 |
+| **Net Sales**            | ₹.56,947 Crore   | -                |
+|                         | Compressed       |              |
+|                         | Adjusted for Marge & SG&A impact +1% up compared to Qtr ended Mar'17 due largely driven by higher sales in India and lower operating leverage among others-30 basis points compared to qtr. ended mar’18 2016 |
+| **Other Income**         | ₹.519 Crore      | -                |
+|                         | Net Sales        |              |
+|                         | Compressed       |              |
+|                         | Adjusted for Marge & SG&A impact +3 basis points compared to qtr ended Mar'17 due largely driven by higher sales in India and lower operating leverage among others-29 basis points compared to qtr. ended mar’18 2016 |
+
+**Body Text:**
+Consolidated group revenue for Q4 of fiscal year 2018 was ₹56,943 Crore (comprising ₹56,947 in the auto division and ₹519 crores from other income) a decline of (-)1% compared to the same quarter last financial year.
+
+**Additional Data:**
+- **Operating Income:** ₹.280 billion
+  - Net Sales Compressed by ~3%
+  - Adjusted for Marge & SG&A impact +6 basis points compared with Qtr ended Mar'17 due largely driven by higher sales in India and lower operating leverage among others.
+  
+- **Depreciation, amortization expenses:** ₹.208 billion
+  - Net Sales Compressed By ~3%
+  - Adjusted for Marge & SG&A impact +5 basis points compared with Qtr ended Mar'17 due largely driven by higher sales in India and lower operating leverage among others.
+  
+- **Depreciation, amortization expenses (other income):** ₹.246 million
+  - Net Sales Compressed By ~3%
+  - Adjusted for Marge & SG&A impact +8 basis points compared with Qtr ended Mar'17 due largely driven by higher sales in India and lower operating leverage among others.
+
+- **Depreciation, amortization expenses (other income):** ₹.246 million
+  - Net Sales Compressed By ~3%
+  - Adjusted for Marge & SG&A impact +8 basis points compared with Qtr ended Mar'17 due largely driven by higher sales in India and lower operating leverage among others.
+
+- **Net Income:** ₹9,052 Crore
+
+**Footer Note:**
+Note on Non-compressed numbers from a comparison of the consolidated group financials.

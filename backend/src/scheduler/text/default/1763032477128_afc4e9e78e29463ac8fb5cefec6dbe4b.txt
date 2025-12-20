@@ -1,0 +1,21 @@
+Q & AS FOR THE PMBOK® GUIDE FOURTH EDITION
+
+**Questions**
+
+1. **A project is:**
+   A. A set of sequential activities performed in a process or system.
+
+   B. A revenue-generating activity that needs to be accomplished while achieving customer satisfaction.
+
+   C. An ongoing endeavor undertaken to meet customer or market requirements.
+
+   D. A temporary endeavor undertaken to create a unique product, service, or result.
+
+2. **Project management is:**
+   A. The integration of the critical path method and the Earned Value Management system.
+   
+   B. The application of knowledge, skills, tools, and techniques to project activities to meet project requirements.
+
+   C. The application of knowledge, skills, wisdom, science, and art to organizational activities to achieve operational excellence.
+
+   D. A subset of most engineering and other technical disciplines.

@@ -1,0 +1,26 @@
+Title: Q & AS FOR THE PMBOK® GUIDE FOURTH EDITION
+
+Subtitle: Questions
+
+Chapter Information:
+(Chapter 1 of the PMBOK® Guide)
+
+Section Title: Introduction
+(A brief introduction to Project Management)
+(Subsections with definitions and descriptions are listed below.)
+
+Q. A project is:
+A set of sequential activities performed in a process or system.
+A revenue-generating activity that needs to be accomplished while achieving customer satisfaction.
+
+Q. An ongoing endeavor undertaken to meet customer or market requirements.
+Q. A temporary endeavor undertaken to create a unique product, service, or result.
+
+Section Title: Project management is:
+
+Q. The integration of the critical path method and the Earned Value Management system.
+Q. The application of knowledge, skills, tools, and techniques to project activities to meet project requirements.
+Q. The application of knowledge, skills, wisdom, science, and art to organizational activities to achieve operational excellence.
+
+Q. A subset of most engineering and other technical disciplines.
+(Q & As for the PMBOK® Guide Questions)

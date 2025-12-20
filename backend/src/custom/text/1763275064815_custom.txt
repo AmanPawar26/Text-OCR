@@ -1,0 +1,23 @@
+Title: Tata Motors Group Financials
+
+Subtitle: Consolidated
+
+Table:
+
+|                | Quarter ended Mar 13, 2015 | Quarter ended Mar 13, 2014 |
+|----------------|----------------------------|---------------------------|
+| **Consolidated**|                           |                           |
+| Net Sales      | ₹76,897.2 (M)              | ₹72,195.1 (M)             |
+| Operating Income before tax | ₹35,104.2 (M)| ₹34,338.1 (M)| 
+|   Profit Before Tax  | ₹36,107.2 (M)       | ₹35,290.1 (M)           |
+| After interest and tax | ₹35,290.1 (M)     | ₹34,813.3 (M)             |
+| Net Income after taxes before extraordinary items  | ₹27,608.1 (M)| ₹26,124.0 (M)| 
+| **Non-Consolidated**|                          |                           |
+| Indian Subsidiaries: Tata Power | ₹935.0( M)       | ₹767.0(M)|    |
+|   JLR India Pvt Ltd: Jaguar Land Rover Limited | ₹1,482.0 (M)|  ₹1,324.0(M)|
+| **Others**     |                          |                           |
+
+Subsection:
+
+- Operating Income before tax
+- Profit Before Tax

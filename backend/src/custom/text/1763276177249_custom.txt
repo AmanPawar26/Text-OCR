@@ -1,0 +1,26 @@
+Title: Tata Motors Group Financials
+
+Subtitle: Consolidated | Quarter ended Mar 31, 2017 | Mar 31, 2016
+
+Table:
+
+|            | Cars       | Commercial        | Others           |
+|------------|-----------|-------------------|------------------|
+| Convoluted|           |                   |                  |
+| (in million INR)|     $48.5    |   $179.2      |  $306.0         |
+
+Body Text:
+
+- Gross revenue: Total
+  - Cars: 
+    - Domestic sales:
+      - Unit: Rs. Crores, Year-on-Year growth: %
+    - International sales:
+      - Subsidiaries & Joint Ventures:
+        - Units and sales volume in million INR
+
+- Operating income (loss):
+  - Cars:
+    - Domestic segment
+      - Excluding special items.
+    - Commercial segment

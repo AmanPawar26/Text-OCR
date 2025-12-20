@@ -1,0 +1,30 @@
+**Title:**
+Tata Motors Group Financials
+
+**Table Header:**
+Company (Q4)
+Comprehensive Income Statement 
+Condensed group results as on Mar'12, 2013 
+
+**Column Headings:**
+- Consolidated / Combined*
+- Q4 FY2012* (Rs. Crores)**| **Consolidated / Combined
+- Net sales and Operating income* | **Net Income/Operating Income*** 
+- Gross profit margin (%)  
+- EBITDA Margin %  
+- Depreciation & Amortization** | 
+
+**Table Content:**
+```
+Consolidated    Q4 FY2013      Consolidated     Q4 FY2012
+Comprehensive Income Statement  Net sales and Operating income*   Gross profit margin (%)       EBITDA Margin % 
+                                 (Rs. Crores)        Rs. Crs |        |              | Depreciation & Amortization*
+Q4 FY2013    **Consolidated / Combined**| Q4 FY2012      *Condensed group results as on Mar'12, 2013 
+                                 (Rs. Crores)       Rs.Crs |        |              |  
+                                         Net Income/Operating Income***   Gross profit margin (%)     EBITDA Margin %    Depreciation & Amortization**
+                                 **Consolidated / Combined**| Q4 FY2013      *Condensed group results as on Mar'12, 2013 
+                                 (Rs. Crores)       Rs.Crs |        |              |
+                                 ***Net Income/Operating Income***    Gross profit margin (%)     EBITDA Margin %    Depreciation & Amortization**
+```
+
+(Note: Some fields in the table are empty as indicated by `UNREADABLE` and `*` or `**`).)

@@ -1,0 +1,82 @@
+**Title:**
+Tata Motors Group Financials
+
+**Subtitle:**
+Consolidated | Quarter ended Mar'13 vs. Mar'12
+
+**Table:**
+
+| Category               | Numbers     |
+|------------------------|-------------|
+| Total                   | 4,087       |           |
+|                         |             |
+| Revenue                 |            |
+|                        | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | Sales         | Shares      | Net Income                             |
+|                        | INR Bn       | 3,195.86     | 274           |    -                                   |
+|                         |             |
+| Gross Profit            | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | 0.82%         |              | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+| Operating Margin Before Tax
+- EBITDA                  |            |
+|                         | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | 19.24%        |             | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+| Operating Margin After Tax
+- PAT                    |            |
+|                         | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | 19.34%        |             | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+| Operating Profit Before Tax
+- EBITDA                  |            |
+|                         | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | 19.24%        |             | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+| Operating Profit After Tax
+- PAT                    |            |
+|                         | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | 19.34%        |             | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+| Finance cost on current investments
+- Interest Expense    |            |
+|                         | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | 0.14%         |             | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+| Finance cost on non-current investments
+- Interest Expense    |            |
+|                         | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | 0.53%         |             | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+| Finance cost on other financial assets and liabilities
+- Interest Expense    |            |
+|                         | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | 0.13%         |             | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+| Total Finance Cost     |            |
+|                         | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        |    -          | 1.23%         | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+| Operating Profit before Finance Cost
+- EBITDA                  |            |
+|                         | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | 18.2%         |             | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+| Operating Profit after Finance Cost
+- PAT                    |            |
+|                         | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | 16.84%        |             | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+| Total EBITDA Adjusted for Finance Cost
+- EBITDA                  |            |
+|                         | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | 17.69%        |             | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+| Adjusted Total Profit After Tax
+- PAT                    |            |
+|                         | All Vehicles | Passenger Cars | Commercial | Tata Motors Group (excluding JLR) |
+|                        | Sales        | 16.42%        |             | Net Income                             |
+|                        | INR Bn       |                |              |                                          |
+
+**Notes:**
+- Difference of adjusted total profit after tax with the previous year’s comparable period is explained below.

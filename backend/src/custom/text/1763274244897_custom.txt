@@ -1,0 +1,35 @@
+**Title:**
+Tata Motors Group Financials
+
+---
+
+**Table:**
+
+| Consolidated | Cars (000)   | HCVS       | CVHS      | Commercial |
+|-------------|--------------|------------|-----------|------------|
+| Total       | 15.82        |           | 43,960    |            |
+| Gross revenue         | 74          | $R$19,225   | $R$11,581   | $R$32,755 (4H) |
+
+**Sub-table:**
+
+- **Qtr ended Mar'12**
+  - Cars ($0.00)
+    - HCVS
+      - Total revenue         | $R$69,283 | 
+        - Gross Revenue       |           |
+          - Sales of vehicles   | $R$45,795|
+            - Sales by region: India| 12,471 (2H) || UNREADABLE
+                *UNREADABLE* [UNREADABLE] 
+
+- **Qtr ended Mar'13**
+  - Cars ($0.00)
+    - HCVS
+
+**Footnotes:**
+
+Note on gross revenue:
+- Sales of vehicles include sales by region.
+- HCVS includes non-passenger cars.
+
+Other financials (unaudited):
+UNREADABLE

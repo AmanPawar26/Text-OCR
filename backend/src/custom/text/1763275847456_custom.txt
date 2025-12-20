@@ -1,0 +1,43 @@
+Title: Tata Motors Group Financials
+
+Subtitle: Consolidated Income Statement as on March 31,2015; Compared with Year ended Mar'14.
+
+Table:
+
+| Description                     | Qtr ending in Jan '16 (INR lakhs) |
+|---------------------------------|-------------------------------|
+| Total income                    |                             |
+| Gross revenue                   |     79                          |     308                            |
+| Income before taxes              |     52                          |    4.5% of total                        |
+| Operating profit                |   -16                         |      (N/A)                           |
+
+Subtitle: EBITDA
+
+Table:
+
+| Description                     | Qtr ending in Jan '16 (INR lakhs) |
+|---------------------------------|-------------------------------|
+| EBITDA                          |     53                          |    N/A                             |
+
+Subtitle: Operating profit after taxes, excluding exceptional items.
+
+Table:
+
+| Description               | Qtr ending in Jan '16 (INR lakhs) |
+|---------------------------|-------------------------------|
+| After tax operating       |   -4.9                        |      (N/A)                           |
+
+Subtitle: Net income
+
+Table:
+
+| Description                     | Qtr ending in Jan '16 (INR lakhs) |
+|---------------------------------|-------------------------------|
+| Profit after taxes, excluding exceptional items as on Mar'2015    |     4.8                          |      N/A                             |
+
+Note:
+- All comparisons with the corresponding quarter of previous financial year.
+- Figures rounded to nearest hundred for presentation purposes.
+
+Footer Note: 
+Different companies have different norms and disclosures in their statutory reports, which may affect comparability over a period

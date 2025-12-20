@@ -1,0 +1,39 @@
+**Title:**
+Tata Motors Group Financials
+
+---
+
+**Table:**
+
+| Consolidated  | Commencement date as on March 10, 2013 |
+|---------------|----------------------------------------|
+|               |            QTRI    | QUARTERLY DATA (IN INR Billion)       | 
+|               |           Mar'12   |          Apr-Jun      |                Jul-Sept        |                  Oct-Dec                     |
+|               |              |                        |                              |                                       |
+
+**Columns:**
+- Commencement date as on March 10, 2013
+- QTRI (Quarterly Total Income)
+- QUARTERLY DATA
+
+**Rows:**
+
+Column Headers:
+1. Consolidated
+2. Commencement date as on March 10, 2013
+   - Mar'12
+   - Apr-Jun
+   - Jul-Sept
+   - Oct-Dec
+3. QTRI (Quarterly Total Income)
+
+Row Data:
+
+Consolidated:
+- Mar’12: Various figures in millions INR with a detailed breakdown across 'Mar', 'Apr', 'Jun', and so on.
+- Apr-Jun, Jul-Sept, etc., showing the quarterly income.
+
+QUARTERLY DATA:
+Each quarter has multiple rows detailing various financial aspects such as Net sales revenue including tax (NBSARIT), Gross profit excluding finance cost & taxes, Operating expenses before extraordinary items, Finance costs net of interest benefit on debt obligations and capital expenditure for new plants, Depreciation charges in respect of fixed assets used by the Group within India.
+
+Each row includes different financial metrics such as 'Net sales revenue including tax (NBSARIT)', which is broken down further into 'Mar', 'Apr', etc., showing figures in millions INR.
